@@ -5,8 +5,8 @@
 - The sliced model contains defects. This does not occur in the Origonal "Slic3r" or "IdeaMaker"
 
 ## Images
-![Model View](/chris17453/prusaslicer_defects/model.png?raw=true )
-!(slice.png)
+![Model View](model.png?raw=true )
+![Slice View](slice.png)
 
 
 
