@@ -10,6 +10,6 @@
 ## Images
 ![Model View](model.png?raw=true)
 ![Slice View](slice.png)
-![Slice Zoom](sllice_zoom.png)
+![Slice Zoom](slice_zoom.png)
 
 
